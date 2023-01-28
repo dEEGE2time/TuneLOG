@@ -12,11 +12,16 @@ body {
     color:rgb(32, 32, 32)
 }
 
+/* font classes */
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
 /* logo and header */
 
-h1 {
+h1, h2 {
     font-family: 'Ubuntu', sans-serif;
-    text-transform: uppercase;
     letter-spacing: 2px;
     color: white;
 }
@@ -25,17 +30,19 @@ h1 > span {
     text-transform: capitalize;
 }
 
-#logo {
+#logo { /* logo style */
     float: left;
     font-size: 250%;
     line-height: 7.5vh;
     margin-left: 25px;
 }
 
-header {
-    background-color: black;
+header { /* set color to header */
+    background-color: rgb(33, 33, 33);
 }
 
-.page-header {
+.page-header { /* set height to header */
     height: 7.5vh;
 }
+
+/* about deege */
