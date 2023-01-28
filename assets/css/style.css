@@ -55,12 +55,12 @@ header { /* set color to header */
 
 #avatar {
     position: relative;
-    left: 25%;
+    left: 33%;
 }
 
 #text-box {
     position: relative;
-    left: 300px;
+    left: 33%;
     bottom: 200px;
 }
 
@@ -74,5 +74,5 @@ header { /* set color to header */
 }
 
 #text-box > p {
-    color: white;
+    color: rgb(164, 164, 164);
 }
