@@ -46,3 +46,33 @@ header { /* set color to header */
 }
 
 /* about deege */
+
+#about-deege {
+    background-color: black;
+    margin: 0;
+    padding: 1rem 0;
+}
+
+#avatar {
+    position: relative;
+    left: 25%;
+}
+
+#text-box {
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+}
+
+.about-box {
+    display: inline-block;
+}
+
+#avatar > img {
+    width: 256px;
+    height: 256px;
+}
+
+#text-box > p {
+    color: white;
+}
