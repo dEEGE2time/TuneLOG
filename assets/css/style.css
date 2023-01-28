@@ -12,13 +12,13 @@ body {
     color:rgb(32, 32, 32)
 }
 
-/* Logo */
+/* logo and header */
 
 h1 {
     font-family: 'Ubuntu', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: black;
+    color: white;
 }
 
 h1 > span {
@@ -28,4 +28,14 @@ h1 > span {
 #logo {
     float: left;
     font-size: 250%;
+    line-height: 7.5vh;
+    margin-left: 25px;
+}
+
+header {
+    background-color: black;
+}
+
+.page-header {
+    height: 7.5vh;
 }
