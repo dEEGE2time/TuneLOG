@@ -47,12 +47,21 @@ header { /* set color to header */
 
 /* about deege section */
 
+
+
 #about-deege {
-    background-color: black;
-    position: absolute;
-    height: max-content;
+    background: linear-gradient(
+        rgba(0, 0, 0, .6),
+        rgba(0, 0, 0, .6)
+    ),
+    url("../images/vinyl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    filter: saturate(50%);
     width: 100%;
-    overflow: auto;
+
+    overflow: hidden;
     padding-bottom: 100px;
 }
 
@@ -60,6 +69,7 @@ header { /* set color to header */
     width: 50%;
     height: 500px;
     display: inline-block;
+    background-color: rgba(0, 0, 0, .4);
 }
 
 .column {
@@ -101,8 +111,16 @@ table, th, td {
     text-align: left;
 }
 
+table {
+    width: 70%;
+}
+
 th {
     border-bottom: 1px solid rgba(53, 53, 53, .8);
+}
+
+td {
+    padding-right: 5px;
 }
 
 .strong {
