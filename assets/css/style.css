@@ -140,3 +140,22 @@ hr {
 }
 
 /* overview */
+
+#artist-menu {
+    position: absolute;
+    background-color: red;
+    margin: -50px 25%;
+    line-height: 75px;
+    z-index: 1;
+}
+
+#artist-menu li {
+    float: left;
+    list-style-type: none;
+}
+
+#artist-menu a {
+    border: 1px solid black;
+    border-bottom: none;
+    text-decoration: none;
+}
