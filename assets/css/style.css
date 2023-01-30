@@ -41,7 +41,7 @@ header { /* set color to header */
     background-color: rgb(33, 33, 33);
 }
 
-.page-header { /* set height to header */
+#page-header { /* set height to header */
     height: 7.5vh;
 }
 
