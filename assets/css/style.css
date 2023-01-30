@@ -53,6 +53,7 @@ header { /* set color to header */
     height: max-content;
     width: 100%;
     overflow: auto;
+    padding-bottom: 100px;
 }
 
 #about-deege div {
@@ -93,11 +94,6 @@ header { /* set color to header */
 
 #about-deege h2 {
     font-size: 42px;
-}
-
-hr {
-    width: 70%;
-    color: whitesmoke;
 }
 
 table, th, td {
