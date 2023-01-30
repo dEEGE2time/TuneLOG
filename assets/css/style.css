@@ -49,15 +49,48 @@ header { /* set color to header */
 
 #about-deege {
     background-color: black;
-    margin: 0;
-    padding: 1rem 0;
+    position: absolute;
+    height: max-content;
+    width: 100%;
 }
 
+.float-left {
+    float: left;
+}
+
+.margin-left {
+    margin-left: 450px;
+}
+
+.float-right {
+    float: right;
+}
+
+.margin-right {
+    margin-right: 450px;
+}
+
+#about-deege div {
+    width: 20%;
+    height: 500px;
+    display: inline-block;
+}
+
+/* about deege image */
+
+#about-deege img {
+    width: 192px;
+    position: relative;
+    margin-top: 15%;
+    float: right;
+    border-radius: 20px;
+}
+/*
 #avatar {
     position: relative;
     left: 33%;
 }
-
+*/
 #text-box {
     position: relative;
     left: 33%;
