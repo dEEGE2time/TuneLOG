@@ -78,6 +78,17 @@ header { /* set color to header */
     margin: 10px;
 }
 
+.transparent-bg-black {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: self;
+
+    background-color: rgba(0, 0, 0, .6);
+    top: 0;
+    border-radius: 5px;
+}
+
 /* about deege left content */
 
 #about-deege img {
@@ -113,7 +124,7 @@ th {
 }
 
 td {
-    padding-right: 5px;
+    padding: 5px 5px;
 }
 
 .strong {
@@ -145,6 +156,10 @@ hr {
     width: 250px;
     height: 250px;
     padding: 25px;
+}
+
+.container2 h1 {
+    color: black;
 }
 
 .card:nth-child(2) {
