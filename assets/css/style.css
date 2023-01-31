@@ -34,8 +34,6 @@ h1 > span {
 #logo { /* logo style */
     float: left;
     font-size: 250%;
-    line-height: 7.5vh;
-    padding-left: 20px;
 }
 
 header { /* set color to header */
@@ -44,14 +42,9 @@ header { /* set color to header */
     border-bottom: 1px solid rgba(0, 0, 0, .2);
 }
 
-#page-header { /* set height to header */
-    height: 7.5vh;
-}
-
 .container-header {
     display: flex;
     justify-content: space-between;
-    padding: 0 20px;
 }
 
 #menu ul {
@@ -274,6 +267,28 @@ footer a:hover {
 
 /* discography */
 
-.beat {
-    display: inline;
+.beats {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+
+/* media queries */
+
+@media screen and(min-width: 450px) {
+    #logo {
+        padding-left: 20px;
+    }
+    .container-header {
+        flex-direction: flow;
+    }
+}
+
+@media screen and(min-width: 630px) {
+    #page-header {
+        line-height: 7.5vh;
+    }
+    .container-header {
+        flex-direction: row;
+    }
 }
