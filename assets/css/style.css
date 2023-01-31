@@ -82,10 +82,8 @@ header { /* set color to header */
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-content: self;
 
     background-color: rgba(0, 0, 0, .6);
-    top: 0;
     border-radius: 5px;
 }
 
@@ -94,7 +92,7 @@ header { /* set color to header */
 #about-deege img {
     width: 275px;
     border-radius: 50%;
-    border: 1px solid rgba(0, 0, 0, .2);
+    padding: 5px;
 }
 
 /* about deege right content */
@@ -149,6 +147,9 @@ hr {
     justify-content: center;
     align-items: center;
     margin: 25px;
+
+    position: relative;
+    top: -120px;
 }
 
 .container2 img {
@@ -159,6 +160,15 @@ hr {
 
 .container2 h1 {
     color: black;
+}
+
+.container2 a {
+    transition: transform 0.3s ease 0s;
+}
+
+.container2 a:hover {
+    /* filter: blur(5px); */
+    transform: translateY(-10px);
 }
 
 .card:nth-child(2) {
@@ -176,9 +186,47 @@ hr {
     justify-content: center;
     align-content: center;
     align-items: center;
-    position: relative;
 
     background-color: rgb(255, 255, 255);
-    top: -120px;
     border-radius: 5px;
+    padding-top: 20px;
+}
+
+/* footer */
+
+footer {
+    color: white;
+}
+
+#footer-bar {
+    background-color: black;
+    
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+}
+
+.footer-card {
+    padding: 5px;
+}
+
+.footer-card:nth-child(1) {
+    padding-top: 30px;
+}
+
+.footer-card li {
+    padding-top: 5px
+}
+
+footer a, li {
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(191, 191, 191);
+}
+
+footer a:hover {
+    transform: translateY(-10px);
+    color: white;
 }
