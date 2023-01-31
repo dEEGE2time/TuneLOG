@@ -78,6 +78,16 @@ header { /* set color to header */
     line-height: 75px;
 }
 
+.active {
+    border-bottom: 2px solid #2b78e4;
+
+    transition: transform 0.3s ease 0s;
+}
+
+.active:hover {
+    border: none
+}
+
 /* about deege section */
 
 #about-deege {
@@ -260,4 +270,10 @@ footer a, li {
 
 footer a:hover {
     color: white;
+}
+
+/* discography */
+
+.beat {
+    display: inline;
 }
