@@ -88,7 +88,7 @@ header { /* set color to header */
         rgba(0, 0, 0, .6),
         rgba(0, 0, 0, .6)
     ),
-    url("../images/vinyl.jpg");
+    url("../images/vinyl.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -270,7 +270,11 @@ footer a:hover {
 .beats {
     display: flex;
     align-items: center;
-    padding: 30px;
+    flex-wrap: wrap;
+}
+
+.beats p {
+    font-style: italic;
 }
 
 /* media queries */
