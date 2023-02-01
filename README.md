@@ -15,7 +15,12 @@ Tune Log is designed to show a discography and a biography of my producer career
 
 ![Nav Bar](docs/readme-images/nav-bar.webp)
 
-Landing Page
+* Landing Page
+    * Landing page consists of an avatar of dEEGE.
+    * Here the user will get some useful information thanks to the "Artist Details" box.
+    * With the help of the chosen background image and also the box containing information, the user will immediately know what the website is about.
+
+![Landing Page](docs/readme-images/landing-page.webp)
 
     Club Ethos Section
         The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
