@@ -19,6 +19,7 @@ Tune Log is designed to show a discography and a biography of my producer career
     * Landing page consists of an avatar of dEEGE.
     * Here the user will get some useful information thanks to the "Artist Details" box.
     * With the help of the chosen background image and also the box containing information, the user will immediately know what the website is about.
+    * Same features on 2/3 pages (Overview & Discography pages)
 
 ![Landing Page](docs/readme-images/landing-page.webp)
 
@@ -29,37 +30,72 @@ Tune Log is designed to show a discography and a biography of my producer career
 
 ![Overview Page](docs/readme-images/overview-page.webp) 
 
-Club Ethos
+* Footer
+    * Here you will find links to dEEGE's social media and music related websites (Splice & Soundcloud).
+    * When hovering over anchors, color change will happen with a slight 0.3s transition.
+    * Same features on all three pages.
 
-    Meetup Times section
-        This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-        This section will be updated as these times change to keep the user up to date.
+![Footer](docs/readme-images/footer.webp)
 
-Meetup Times
+### Discography
 
-    The Footer
-        The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
-        The footer is valuable to the user as it encourages them to keep connected via social media
+* Discography Page
+    * A showcase of beats to define the style of beats to the user.
+    * Here are 6 available beats with controls and no autoplay.
 
-Footer
+![Discography](docs/readme-images/discography.webp)
 
-    Gallery
-        The gallery will provide the user with supporting images to see what the meet ups look like.
-        This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
+### Biography
 
-Gallery
+* Biography Page
+    * Biography about dEEGE.
+    * Contains information about his music and school career.
 
-    The Sign Up Page
-        This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
+![Biography](docs/readme-images/biography.webp)
 
-Sign Up
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+### Existing Features
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-Features Left to Implement
+* Responsive design
+* 6 beats with controls
+* Links to Album / Singles with animation (translateY())
+* Links to social media
 
-    Another feature idea
+### Future Features
+
+* Display album/single name in center when hovering over albums/singles
+* Customize controls for .mp3 files.
+
+## Design
+
+### Wireframes
+
+
+## Technologies
+
+* HTML
+    * Core content and structure written using HTML.
+
+* CSS
+    * Styling and responsive design written using CSS.
+
+* Github
+    * Source code hosted on github and deployed through github pages.
+
+* Git
+    * Commit and pushing code using git
+
+* Cloudconvert
+    * Used https://cloudconvert.com/png-to-webp to convert images to webp.
+
+* Tinypng
+    * Used https://tinypng.com/ to compress webp images.
+
+* CSS Gradient
+    * Used https://cssgradient.io/ to add gradient to background-color.
+
+
+
 
 Testing
 
