@@ -22,9 +22,12 @@ Tune Log is designed to show a discography and a biography of my producer career
 
 ![Landing Page](docs/readme-images/landing-page.webp)
 
-    Club Ethos Section
-        The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-        This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
+* Albums and Singles(Overview) section
+    * The website will display clickable images which links to albums and singles that I've collaborated on.
+    * Allows the user the first glimpse of my style producing hip-hop.
+    * Some minor animations when hovering over image.
+
+![Overview Page](docs/readme-images/overview-page.webp) 
 
 Club Ethos
 
