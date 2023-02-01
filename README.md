@@ -94,7 +94,11 @@ Tune Log is designed to show a discography and a biography of my producer career
 * CSS Gradient
     * Used https://cssgradient.io/ to add gradient to background-color.
 
+* Favicon
+    * Used https://favicon.io/favicon-generator/ to generate icon in head.
 
+* Balsamiq
+    * Used balsamiq for wireframes.
 
 
 Testing
