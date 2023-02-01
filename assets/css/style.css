@@ -9,8 +9,9 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    background-color: #f3ede0;
-    color:rgb(32, 32, 32)
+    background: rgb(131,125,108);
+    background: radial-gradient(circle, rgba(131,125,108,1) 0%, rgba(0,0,0,0.9) 90%);
+    color:rgb(32, 32, 32);
 }
 
 /* font classes */
