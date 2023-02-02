@@ -1,6 +1,6 @@
 # Tune Log
 
-Tune Log is designed to show a discography and a biography of my producer career as dEEGE. Here you will be able to get a sense of my style and where it comes from. You will learn how long I've been doing music and my passion for it, as well as the future of dEEGE. The main target of audience would be artists looking for beats to record vocals on, or other producers for inspiration or potential future collaborations. View the live website [here]()
+Tune Log is designed to show a discography and a biography of my producer career as dEEGE. Here you will be able to get a sense of my style and where it comes from. You will learn how long I've been doing music and my passion for it, as well as the future of dEEGE. The main target of audience would be artists looking for beats to record vocals on, or other producers for inspiration or potential future collaborations. View the live website [here](https://deege2time.github.io/project1/).
 
 ![Mockup](docs/readme_images/)
 
@@ -13,7 +13,15 @@ Tune Log is designed to show a discography and a biography of my producer career
     3. [Existing Features](#existing-features)
     4. [Future Features](#future-features)
 2. [Technologies](#technologies)
-    1. [Responsive Design](#responsive-design)
+    1. [Languages](#languages)
+    2. [Tools](#tools)
+3. [Testing](#testing)
+    1. [Validation-HTML](#validation-html)
+    2. [Validation-CSS](#validation-css)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Responsive Design](#responsive-design)
+    6. [Browser Compatibility](#browser-compatibility)
 
 
 ## Features
@@ -122,7 +130,7 @@ Tune Log is designed to show a discography and a biography of my producer career
 ## Testing
 <hr>
 
-### **Vlidation-HTML**
+### **Validation-HTML**
 Used the W3C Markup Validation Service with urls. All pages passed with 0 errors.
 <details><summary>Overview</summary>
 <img src="docs/validation/html/overview-validation.png">
@@ -177,23 +185,16 @@ Ran through Google Lighthouse via Google Devtools, only biography scored 99 whil
 ### **Responsive Design**
 <br>
 
+Tested for all devices 320px and up.
+* Test results from Google Devtools
 
+### **Browser Compatibility**
+<br>
 
-
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-Validator Testing
-
-    HTML
-        No errors were returned when passing through the official W3C validator
-    CSS
-        No errors were found when passing through the official (Jigsaw) validator
+Test from following browsers without problems
+* Google Chrome
+* Firefox
+* Safari (iPhone)
 
 Unfixed Bugs
 
