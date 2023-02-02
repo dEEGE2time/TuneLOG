@@ -122,6 +122,32 @@ Tune Log is designed to show a discography and a biography of my producer career
 ## Testing
 <hr>
 
+### **HTML Validation**
+Used the W3C Markup Validation Service with urls. All pages passed with 0 errors.
+<details><summary>Overview</summary>
+<img src="docs/validation/html/overview-validation.png">
+</details>
+<details><summary>Discography</summary>
+<img src="docs/validation/html/discography-validation.png">
+</details>
+<details><summary>Biography</summary>
+<img src="docs/validation/html/biography-validation.png">
+</details>
+<br>
+
+### **CSS Validation**
+Used the W3C CSS Validation Service with url and stylesheet. All pages passed with 0 errors.
+<details><summary>Whole project</summary>
+<img src="docs/validation/css/page-validation.png">
+</details>
+<details><summary>Stylesheet</summary>
+<img src="docs/validation/css/stylesheet-validation.png">
+
+**Warning message: "Imported style sheets are not checked in direct input and file upload modes". From imported fonts** 
+
+</details>
+<br>
+
 ### **Responsive Design**
 <br>
 
