@@ -196,6 +196,51 @@ Test from following browsers without problems
 * Firefox
 * Safari (iPhone)
 
+### **Functional Testing**
+<br>
+
+**Basic features displayed through all three pages.**
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Logo | Link to overview | Bring user to overview(home page) | Works as expected |
+| Navigation | Navigation for overview, discography, biography| Allow user to navigate through site and show active page | Works as expected |
+| Footer | Links to different websites where they can follow artist | Transferred to a new page in new tab | Works as expected |
+<details><summary>Images</summary>
+<img src="docs/testing/logo-testing.png">
+<img src="docs/testing/nav-testing.png">
+<img src="docs/testing/footer-testing.png">
+</details>
+<br>
+
+**Features in overview.html**
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Images | Clickable images to bring user to album/singles depending on which image clicked | Open new tab for album/single | Works as expected |
+| Link | Anchor element to "Karlskoga, Sweden" | Bring user to Karlskoga, Sweden on Google Maps | Works as expected |
+<details><summary>Images</summary>
+<img src="docs/testing/images-testing.png">
+<img src="docs/testing/link-kga-swe-testing.png">
+</details>
+<br>
+
+**Features in discography.html**
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Audio | Audio with controls, no autoplay | All audio muted when entering site, controls to audio | Works as expected |
+<details><summary>Images</summary>
+<img src="docs/testing/audio-testing.png">
+</details>
+<br>
+
+**Features in biography.html**
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Link | Anchor element to "Karlskoga Folkhögskola" | Brings user to school website in a new tab | Works as expected |
+<details><summary>Images</summary>
+<img src="docs/testing/link-kga-fhs-testing.png">
+</details>
+<br>
+
 Unfixed Bugs
 
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
