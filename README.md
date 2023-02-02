@@ -4,9 +4,24 @@ Tune Log is designed to show a discography and a biography of my producer career
 
 ![Mockup](docs/readme_images/)
 
-## Features
+## Table of Contents
+<hr>
 
-### Overview
+1. [Features](#features)
+    1. [Discography](#discography)
+    2. [Biography](#biography)
+    3. [Existing Features](#existing-features)
+    4. [Future Features](#future-features)
+2. [Technologies](#technologies)
+    1. [Responsive Design](#responsive-design)
+
+
+## Features
+<hr>
+
+### **Features**
+<br>
+
 * Navigation bar
     * Logo also as a link directly to the home page.
     * Links to Overview, Discography and Biography pages.
@@ -37,7 +52,8 @@ Tune Log is designed to show a discography and a biography of my producer career
 
 ![Footer](docs/readme-images/footer.webp)
 
-### Discography
+### **Discography**
+<br>
 
 * Discography Page
     * A showcase of beats to define the style of beats to the user.
@@ -45,7 +61,8 @@ Tune Log is designed to show a discography and a biography of my producer career
 
 ![Discography](docs/readme-images/discography.webp)
 
-### Biography
+### **Biography**
+<br>
 
 * Biography Page
     * Biography about dEEGE.
@@ -54,30 +71,34 @@ Tune Log is designed to show a discography and a biography of my producer career
 ![Biography](docs/readme-images/biography.webp)
 
 
-### Existing Features
+### **Existing Features**
+<br>
 
 * Responsive design
 * 6 beats with controls
 * Links to Album / Singles with animation (translateY())
 * Links to social media
 
-### Future Features
+### **Future Features**
+<br>
 
 * Display album/single name in center when hovering over albums/singles
 * Customize controls for .mp3 files.
 
-## Design
-
-### Wireframes
-
-
 ## Technologies
+<hr>
+
+### **Languages**
+<br>
 
 * HTML
     * Core content and structure written using HTML.
 
 * CSS
     * Styling and responsive design written using CSS.
+
+### **Tools**
+<br>
 
 * Github
     * Source code hosted on github and deployed through github pages.
@@ -97,11 +118,14 @@ Tune Log is designed to show a discography and a biography of my producer career
 * Favicon
     * Used https://favicon.io/favicon-generator/ to generate icon in head.
 
-* Balsamiq
-    * Used balsamiq for wireframes.
+
+## Testing
+<hr>
+
+### **Responsive Design**
+<br>
 
 
-Testing
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
