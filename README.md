@@ -22,6 +22,10 @@ Tune Log is designed to show a discography and a biography of my producer career
     4. [Performance](#performance)
     5. [Responsive Design](#responsive-design)
     6. [Browser Compatibility](#browser-compatibility)
+    7. [Functional Testing](#functional-testing)
+    8. [Unfixed Bugs](#unfixed-bugs)
+4. [Deployment](#deployment)
+
 
 
 ## Features
@@ -241,19 +245,41 @@ Test from following browsers without problems
 </details>
 <br>
 
-Unfixed Bugs
+### **Unfixed Bugs**
+<br>
+Bugs to be fixed in the future as I did not have time.
+* Regarding website responsiveness, the content starts to slightly move to the left below 330px.
+<br>
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
-Deployment
+## **Deployment**
+<hr>
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+The website was deployed through the use of GitHub Pages, a feature built in to GitHub.
 
-    The site was deployed to GitHub pages. The steps to deploy are as follows:
-        In the GitHub repository, navigate to the Settings tab
-        From the source section drop-down menu, select the Master Branch
-        Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+### **Deploying through github pages**
+1. In your repository, click on "Settings" from the top of the menu.
+2. In the side menu to your left, click "Pages" in "Code and automation" section.
+3. Set "Source" to "Deploy from branch".
+4. Set desired branch and set director to /(root).
+5. Click "Save" and wait for github to display your URL at the top of this page.
+<br>
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+### **Fork other repositories**
+1. Go to desired repository.
+2. Click "Fork" in the upper-right corner.
+3. Select owner, set repository name and add description(optional).
+4. Choose to copy default or all branches.
+5. Click "Create Form".
+<br>
+
+### **Clone other repositories**
+1. In your selected repository, click "Code" drop down button.
+2. Select desired cloning method (HTTP)
+3. Copy repository to clipboard
+4. Open IDE of choice.
+5. Type "git clone copied-git-url" into the IDE terminal. (Need git installed) 
+
+
 Credits
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
