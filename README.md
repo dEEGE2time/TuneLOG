@@ -94,6 +94,7 @@ Chosen fonts are simple and minimalistic to fit website theme.
 * Discography Page
     * A showcase of beats to define the style of beats to the user.
     * Here are 6 available beats with controls and no autoplay.
+    * Displayed for users who is interested in the music or possible collaborations.
 
 ![Discography](docs/readme-images/discography.webp)
 
@@ -103,6 +104,7 @@ Chosen fonts are simple and minimalistic to fit website theme.
 * Biography Page
     * Biography about dEEGE.
     * Contains information about his music and school career.
+    * Here you will learn more about the artist.
 
 ![Biography](docs/readme-images/biography.webp)
 
@@ -130,8 +132,10 @@ Chosen fonts are simple and minimalistic to fit website theme.
 * HTML
     * Core content and structure written using HTML.
 
+
 * CSS
     * Styling and responsive design written using CSS.
+
 
 ### **Tools**
 <br>
@@ -139,20 +143,29 @@ Chosen fonts are simple and minimalistic to fit website theme.
 * Github
     * Source code hosted on github and deployed through github pages.
 
+
 * Git
     * Commit and pushing code using git
+
 
 * Cloudconvert
     * Used https://cloudconvert.com/png-to-webp to convert images to webp.
 
+
 * Tinypng
     * Used https://tinypng.com/ to compress webp images.
+
 
 * CSS Gradient
     * Used https://cssgradient.io/ to add gradient to background-color.
 
+
 * Favicon
     * Used https://favicon.io/favicon-generator/ to generate icon in head.
+
+
+* Google Fonts
+    * Used [Ubuntu](https://fonts.google.com/specimen/Ubuntu?query=ubuntu) and [Roboto](https://fonts.google.com/specimen/Roboto)
 
 
 ## **Testing**
