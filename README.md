@@ -29,6 +29,8 @@ Tune Log is designed to show a discography and a biography of my producer career
     2. [Fork other repositories](#fork-other-repositories)
     3. [Clone other repositories](#clone-other-repositories)
 5. [Credits](#credits)
+    1. [Content](#content)
+    2. [Media](#media)
 
 
 
@@ -304,3 +306,5 @@ All content except vinyl image on landing page is owned by dEEGE.
 <br>
 
 Landing page background image of a vinyl was grabbed from [Pexels](https://www.pexels.com/photo/blue-vinyl-record-playing-on-turntable-1389429/).
+
+All audio files are owned by me.
