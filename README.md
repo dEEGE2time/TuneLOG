@@ -2,7 +2,7 @@
 
 Tune Log is designed to show a discography and a biography of my producer career as dEEGE. Here you will be able to get a sense of my style and where it comes from. You will learn how long I've been doing music and my passion for it, as well as the future of dEEGE. The main target of audience would be artists looking for beats to record vocals on, or other producers for inspiration or potential future collaborations. View the live website [here](https://deege2time.github.io/project1/).
 
-![Mockup](docs/readme_images/)
+![Mockup](docs/mockup/mockup.png)
 
 ## Table of Contents
 <hr>
