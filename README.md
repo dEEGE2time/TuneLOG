@@ -285,7 +285,7 @@ Test from following browsers without problems
 ### **Unfixed Bugs**
 <br>
 Bugs to be fixed in the future as I did not have time.
-* Regarding website responsiveness, the content starts to slightly move to the left below 330px.
+* Regarding website responsiveness, the content starts to slightly move to the left below 340px.
 <br>
 
 ## **Deployment**
