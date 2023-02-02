@@ -113,6 +113,7 @@ Chosen fonts are simple and minimalistic to fit website theme.
 <br>
 
 * Responsive design
+* Navigation through the website
 * 6 beats with controls
 * Links to Album / Singles with animation (translateY())
 * Links to social media
@@ -120,8 +121,9 @@ Chosen fonts are simple and minimalistic to fit website theme.
 ### **Future Features**
 <br>
 
-* Display album/single name in center when hovering over albums/singles
+* Display album/single name in center when hovering over albums/singles.
 * Customize controls for .mp3 files.
+* Only play 1 audio at a time.
 
 ## **Technologies**
 <hr>
