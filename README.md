@@ -32,11 +32,8 @@ Tune Log is designed to show a discography and a biography of my producer career
 
 
 
-## Features
+## **Features**
 <hr>
-
-### **Features**
-<br>
 
 * Navigation bar
     * Logo also as a link directly to the home page.
@@ -101,7 +98,7 @@ Tune Log is designed to show a discography and a biography of my producer career
 * Display album/single name in center when hovering over albums/singles
 * Customize controls for .mp3 files.
 
-## Technologies
+## **Technologies**
 <hr>
 
 ### **Languages**
@@ -135,7 +132,7 @@ Tune Log is designed to show a discography and a biography of my producer career
     * Used https://favicon.io/favicon-generator/ to generate icon in head.
 
 
-## Testing
+## **Testing**
 <hr>
 
 ### **Validation-HTML**
@@ -284,20 +281,26 @@ The website was deployed through the use of GitHub Pages, a feature built in to 
 5. Type "git clone copied-git-url" into the IDE terminal. (Need git installed) 
 <br>
 
-## Credits
+## **Credits**
+<hr>
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
+* Animation
+    * Used a combination of these two to create hovering psuedo class animations with CSS.
+        * [Transform](https://www.w3schools.com/cssref/css3_pr_transform.php)
+        * [Transition](https://www.w3schools.com/css/css3_transitions.asp)
 
-You can break the credits section up into Content and Media, depending on what you have included in your project.
-Content
+* [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+    * Used to create the structure of the website.
 
-    The text for the Home page was taken from Wikipedia Article A
-    Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
-    The icons in the footer were taken from Font Awesome
+* [Gradient](https://cssgradient.io/)
+    * Used this generator to create desired color gradients.
 
-Media
+### **Content**
+<br>
 
-    The photos used on the home and sign up page are from This Open Source site
-    The images used for the gallery page were taken from this other open source site
+All content except vinyl image on landing page is owned by dEEGE.
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
+### **Media**
+<br>
+
+Landing page background image of a vinyl was grabbed from [Pexels](https://www.pexels.com/photo/blue-vinyl-record-playing-on-turntable-1389429/).
