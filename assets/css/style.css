@@ -222,6 +222,10 @@ hr {
     padding-top: 20px;
 }
 
+.container, .container2 h2 {
+    color: black;
+}
+
 /* footer */
 
 footer {
