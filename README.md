@@ -32,7 +32,24 @@ Tune Log is designed to show a discography and a biography of my producer career
     1. [Content](#content)
     2. [Media](#media)
 
+## **Design**
+<hr>
 
+### **Design choice**
+
+Designed to look minimalistic, use of personal images to give the user a vibe of the owner.
+<br>
+
+### **Colors**
+
+Chose a color combination of black-beige-blue with different shades of them. Blue is the overall theme here with background colors in beige and black.
+<img src="docs/design/color-palette-design.png">
+<br>
+
+### **Fonts**
+Chosen fonts are simple and minimalistic to fit website theme.
+* [Ubuntu (Headings)](https://fonts.google.com/specimen/Ubuntu?query=ubuntu)
+* [Roboto (Body)](https://fonts.google.com/specimen/Roboto)
 
 ## **Features**
 <hr>
@@ -296,14 +313,15 @@ The website was deployed through the use of GitHub Pages, a feature built in to 
 
 * [Gradient](https://cssgradient.io/)
     * Used this generator to create desired color gradients.
+<br>
 
 ### **Content**
-<br>
 
 All content except vinyl image on landing page is owned by dEEGE.
+<br>
 
 ### **Media**
-<br>
+
 
 Landing page background image of a vinyl was grabbed from [Pexels](https://www.pexels.com/photo/blue-vinyl-record-playing-on-turntable-1389429/).
 
