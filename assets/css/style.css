@@ -320,6 +320,10 @@ footer a:hover {
     gap: 10px;
 }
 
+.border-bottom {
+    border-bottom: 1px solid black;
+}
+
 /* media queries */
 
 @media only screen and (min-width: 450px) {
