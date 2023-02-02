@@ -122,7 +122,7 @@ Tune Log is designed to show a discography and a biography of my producer career
 ## Testing
 <hr>
 
-### **HTML Validation**
+### **Vlidation-HTML**
 Used the W3C Markup Validation Service with urls. All pages passed with 0 errors.
 <details><summary>Overview</summary>
 <img src="docs/validation/html/overview-validation.png">
@@ -135,7 +135,7 @@ Used the W3C Markup Validation Service with urls. All pages passed with 0 errors
 </details>
 <br>
 
-### **CSS Validation**
+### **Validation-CSS**
 Used the W3C CSS Validation Service with url and stylesheet. All pages passed with 0 errors.
 <details><summary>Whole project</summary>
 <img src="docs/validation/css/page-validation.png">
@@ -148,8 +148,36 @@ Used the W3C CSS Validation Service with url and stylesheet. All pages passed wi
 </details>
 <br>
 
+### **Accessibility**
+Ran through WAVE, web accessibility evaluation tool. All pages passed with 0 errors.
+<details><summary>Overview</summary>
+<img src="docs/accessibility/overview-accessibility.png">
+</details>
+<details><summary>Discography</summary>
+<img src="docs/accessibility/discography-accessibility.png">
+</details>
+<details><summary>Biography</summary>
+<img src="docs/accessibility/biography-accessibility.png">
+</details>
+<br>
+
+### **Performance**
+Ran through Google Lighthouse via Google Devtools, only biography scored 99 whilst overview scored 72 and discography scored 75.
+<details><summary>Overview</summary>
+<img src="docs/performance/overview-performance.png">
+</details>
+<details><summary>Discography</summary>
+<img src="docs/performance/discography-performance.png">
+</details>
+<details><summary>Biography</summary>
+<img src="docs/performance/biography-performance.png">
+</details>
+<br>
+
 ### **Responsive Design**
 <br>
+
+
 
 
 
