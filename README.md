@@ -25,6 +25,10 @@ Tune Log is designed to show a discography and a biography of my producer career
     7. [Functional Testing](#functional-testing)
     8. [Unfixed Bugs](#unfixed-bugs)
 4. [Deployment](#deployment)
+    1. [Deploying through github pages](#deploying-through-github-pages)
+    2. [Fork other repositories](#fork-other-repositories)
+    3. [Clone other repositories](#clone-other-repositories)
+5. [Credits](#credits)
 
 
 
@@ -278,9 +282,9 @@ The website was deployed through the use of GitHub Pages, a feature built in to 
 3. Copy repository to clipboard
 4. Open IDE of choice.
 5. Type "git clone copied-git-url" into the IDE terminal. (Need git installed) 
+<br>
 
-
-Credits
+## Credits
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
